@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -38,7 +38,7 @@
         <div class="container">
 
             <!-- Image Logo -->
-            <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> 
+            <a class="" href="index.html"><img src="img/LOGO WWIDC. 4.png" height="80" alt="alternative"></a> 
 
             <!-- Text Logo - Use this if you don't have a graphic logo -->
             <!-- <a class="navbar-brand logo-text" href="index.html">Desi</a> -->
@@ -106,8 +106,8 @@
         </div> <!-- end of header-content -->
         
         <!-- Video Background -->
-        <video autoplay loop muted id="video-background" poster="images/header-background.jpg" playsinline>
-            <source src="images/header-background-video.mp4" type="video/mp4" />
+        <video autoplay loop muted id="video-background" poster="img/banner.jpeg" playsinline>
+            <source src="" type="video/mp4" />
         </video>
         <!-- end of video background -->
 
