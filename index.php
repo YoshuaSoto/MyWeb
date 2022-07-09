@@ -72,20 +72,6 @@
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
                 </ul>
-                <span class="nav-item social-icons">
-                    <span class="fa-stack">
-                        <a href="#your-link">
-                            <i class="fas fa-circle fa-stack-2x"></i>
-                            <i class="fab fa-facebook-f fa-stack-1x"></i>
-                        </a>
-                    </span>
-                    <span class="fa-stack">
-                        <a href="#your-link">
-                            <i class="fas fa-circle fa-stack-2x"></i>
-                            <i class="fab fa-twitter fa-stack-1x"></i>
-                        </a>
-                    </span>
-                </span>
             </div> <!-- end of navbar-collapse -->
         </div> <!-- end of container -->
     </nav> <!-- end of navbar -->
@@ -99,7 +85,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="h1-large">Idea Dev Company</h1>
-                        <a class="btn-solid-lg" href="#introduction">Haz tu Contización</a>
+                        <a class="btn-solid-lg" href="#introduction">Comienza Ahora</a>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
@@ -202,7 +188,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
+                        <img class="img-fluid" src="img/12.jpeg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
@@ -224,7 +210,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/services-2.jpg" alt="alternative">
+                        <img class="img-fluid" src="img/13.jpeg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
@@ -283,55 +269,55 @@
                     <div class="grid">
                         <div class="element-item finance">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-1.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/11.jpeg" alt="alternative">
                                 <p><strong>Online banking</strong> - delivered to and to major company in pharmace ski jump from</p>
                             </a>
                         </div>
                         <div class="element-item finance">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-2.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/2.jpeg" alt="alternative">
                                 <p><strong>Loans company</strong> - enjoyed minutes related as at on on. Is fanny dried camping today</p>
                             </a>
                         </div>
                         <div class="element-item finance">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-3.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/1.jpeg" alt="alternative">
                                 <p><strong>Refinance firm</strong> - distrusts an it contented perceived attending oh nouns here</p>
                             </a>
                         </div>
                         <div class="element-item business finance">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-4.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/13.jpeg" alt="alternative">
                                 <p><strong>Financial products</strong> - thoroughly estimating introduced stimulated why but front</p>
                             </a>
                         </div>
                         <div class="element-item business finance">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-5.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/banner.jpeg" alt="alternative">
                                 <p><strong>Credit cards</strong> - enjoyed minutes related as at on on. Is fanny dried out yesterday</p>
                             </a>
                         </div>
                         <div class="element-item business software">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-6.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/9.jpeg" alt="alternative">
                                 <p><strong>Software robots</strong> - as often me goodness as reserved raptures to mistaken</p>
                             </a>
                         </div>
                         <div class="element-item business software">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-7.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/10.jpeg" alt="alternative">
                                 <p><strong>Company control</strong> - steepest oh screened he gravity he mr sixteen esteems his</p>
                             </a>
                         </div>
                         <div class="element-item business software">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-8.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/16.jpeg" alt="alternative">
                                 <p><strong>Audit reports</strong> - mile home its new way with high told said finished to learn</p>
                             </a>
                         </div>
                         <div class="element-item business software">
                             <a href="article.html">
-                                <img class="img-fluid" src="images/project-9.jpg" alt="alternative">
+                                <img class="img-fluid" src="img/6.jpeg" alt="alternative">
                                 <p><strong>Big business</strong> - no horrible blessing landlord dwelling dissuade if we can hear</p>
                             </a>
                         </div>
