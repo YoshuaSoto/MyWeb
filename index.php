@@ -58,18 +58,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#projects">Proyectos</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Equipo</a>
-                        <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                            <li><a class="dropdown-item" href="article.html">Article Details</a></li>
-                            <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="terms.html">Terms Conditions</a></li>
-                            <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="privacy.html">Privacy Policy</a></li>
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#team">Equipo de Trabajo</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
+                        <a class="nav-link" href="#contact">Contactanos</a>
                     </li>
                 </ul>
             </div> <!-- end of navbar-collapse -->
@@ -107,7 +100,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="h2-heading">Idea Dev Company es una agencia de Diseño y Desarrollo Tecnologico</h2>
-                    <p class="p-heading">Hacemos realidad tus ideas para tu negocio, con todos los servicios en Diseño Gráfico, Ilustración y Desarrollo Web para tu negocio, emprendimiento y campaña publicitaria.</p>
+                    <p class="p-heading">Hacemos realidad tus ideas, con todos los servicios en Diseño Gráfico, Ilustración y Desarrollo Web para tu negocio, empresa, emprendimiento o campaña publicitaria.</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
@@ -115,11 +108,13 @@
 
                     <!-- Card -->
                     <div class="card">
-                        <div class="card-icon">
-                            <span class="fas fa-camera"></span>
+                        <div>
+                            <img src="img/ICON-MOUSE 2.png" height="80" alt="">
+                            <br>
+                            <br>
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Photo Shooting</h4>
+                            <h4 class="card-title">Diseño Gráfico</h4>
                             <div class="card-text">Girl when of ye snug poor draw. Mistake totally of in chiefly. Justice visitor him entered for. Continue delicate as</div>
                         </div>
                     </div>
@@ -127,23 +122,27 @@
 
                     <!-- Card -->
                     <div class="card">
-                        <div class="card-icon">
-                            <span class="fas fa-video"></span>
+                        <div>
+                            <img src="img/ICON-PC.png" height="80" alt="">
+                            <br>
+                            <br>
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Video Production</h4>
-                            <div class="card-text">Continue delicate as unlocked entirely mr relation diverted in. Known not end fully being style hose whom down kept</div>
+                            <h4 class="card-title">Desarrollo Web</h4>
+                            <div class="card-text">Creamos tu sitio web para ti, tu negocio de forma rapida y sencilla, ten presencia online para que tus clientes puedan encontrarte en la red.</div>
                         </div>
                     </div>
                     <!-- end of card -->
 
                     <!-- Card -->
                     <div class="card">
-                        <div class="card-icon">
-                            <span class="fas fa-paint-brush"></span>
+                        <div>
+                            <img src="img/ICON-PINCEL.png" height="80" alt="">
+                            <br>
+                            <br>
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Digital illustration</h4>
+                            <h4 class="card-title">Ilustracion Digital</h4>
                             <div class="card-text">Wrong do point avoid by fruit learn or in death. So passage however besides invited comfort elderly be me. Walls began</div>
                         </div>
                     </div>
@@ -166,9 +165,9 @@
                         
                         <!-- Text Container -->
                         <div class="text-container">
-                            <h2>Why Work With Us</h2>
-                            <p>Satisfied pretended mr on do determine by. Old post took and ask seen fact rich. Man entrance settling believed eat joy. Money as drift begin on comparison up</p>
-                            <p><strong>EXPERIENCE -</strong> insipidity especially discovered me of decisively in surrounded. Points six way enough she its</p>
+                            <h2>Trabajamos para desarrollar tus ideas.</h2>
+                            <p>Nuestro equipo de trabajo está capacitado profesionalmente para llevar a cabo sus tareas de crear lo que necesitos, nos enfocamos en nuestros valores para ofrecer a los clientes seguridad y confianza en sus requerimientos.</p>
+                            <p><strong>EXPERIENCIA -</strong> El equipo suma más de 5 años de experiencia en Diseño y Desarrollo Web.</p>
                             <p><strong>PASSION -</strong> On recommend tolerably my belonging or am. Mutual has cannot beauty indeed now sussex merely</p>
                             <p><strong>CREATIVITY -</strong> possible no husbands jennings ye offended packages pleasant he recommend engrossed</p>
                         </div> <!-- end of text-container -->
