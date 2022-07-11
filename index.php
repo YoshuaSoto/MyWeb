@@ -24,6 +24,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/my-style.css" rel="stylesheet" >
     <link href="css/fontawesome-all.min.css" rel="stylesheet">
     <link href="css/swiper.css" rel="stylesheet">
 	<link href="css/styles.css" rel="stylesheet">
@@ -78,7 +79,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="h1-large">Idea Dev Company</h1>
-                        <a class="btn-solid-lg" href="#introduction">Comienza Ahora</a>
+                        <a class="btn-log" href="#contact">Haz tu Cotización</a>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
