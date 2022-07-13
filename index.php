@@ -4,10 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Your description">
-    <meta name="author" content="Your name">
-
     <!-- OG Meta Tags to improve the way the post looks when you share the page on Facebook, Twitter, LinkedIn -->
 	<meta property="og:site_name" content="" /> <!-- website name -->
 	<meta property="og:site" content="" /> <!-- website link -->
@@ -51,7 +47,7 @@
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ms-auto navbar-nav-scroll">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#header">Inicio</a>
+                        <a class="nav-link" aria-current="page" href="#header">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#services">Servicios</a>
@@ -100,7 +96,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="h2-heading">Idea Dev Company es una agencia de Diseño y Desarrollo Tecnologico</h2>
+                    <h2 class="h2-heading">Idea Dev Company, es una agencia de Diseño y Desarrollo Tecnologico</h2>
                     <p class="p-heading">Hacemos realidad tus ideas, con todos los servicios en Diseño Gráfico, Ilustración y Desarrollo Web para tu negocio, empresa, emprendimiento o campaña publicitaria.</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -332,7 +328,7 @@
 
 
     <!-- Testimonials -->
-    <div class="slider-1">
+    <div class="slider-1" id="team">
         <img class="text-decoration img-fluid" src="images/testimonials-decoration.png" alt="alternative">
         <div class="container">
             <div class="row">
@@ -427,12 +423,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="h2-heading">Contact details</h2>
-                    <p class="p-heading">Of will at sell well at as. Too want but tall nay like old removing yourself today</p>
+                    <h2 class="h2-heading">Contáctenos para atenderle.</h2>
+                    <p class="p-heading">Nos comunicaremos a la mayor brevedad para atenderle.</p>
                     <ul class="list-unstyled li-space-lg">
-                        <li><i class="fas fa-map-marker-alt"></i> &nbsp;22 Innovative, San Francisco, CA 94043, US</li>
-                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:00817202212">+81 720 2212</a></li>
-                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:contact@site.com">contact@site.com</a></li>
+                        <li><i class="fas fa-map-marker-alt"></i> &nbsp;Miranda, Venezuela</li>
+                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:+5804263239292">+58 0426 323 9292</a></li>
+                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:ideadevcompanyww@gmail.com">ideadevcompanyww@gmail.com</a></li>
                     </ul>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -451,7 +447,7 @@
                             <textarea class="form-control-textarea" placeholder="Message" required></textarea>
                         </div>
                         <div class="form-group">
-                            <button type="submit" class="form-control-submit-button">Submit</button>
+                            <button type="submit" class="form-control-submit-button">Enviar</button>
                         </div>
                     </form>
                     <!-- end of contact form -->
@@ -469,43 +465,35 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-col first">
-                        <h6>About Desi</h6>
-                        <p class="p-small">He oppose at thrown desire of no. Announcing impression unaffected day his are unreserved indulgence. Him hard find read are you</p>
+                        <h6>Sobre Nosotros</h6>
+                        <p class="p-small">Tenemos a disposición nuestras redes sociales y correo electrónico para que realice cualquier cotización, le atenderemos a la mayor brevedad posible.</p>
                     </div> <!-- end of footer-col -->
                     <div class="footer-col second">
                         <h6>Links</h6>
                         <ul class="list-unstyled li-space-lg p-small">
-                            <li>Important: <a href="terms.html">Terms & Conditions</a>, <a href="privacy.html">Privacy Policy</a></li>
-                            <li>Useful: <a href="#">Colorpicker</a>, <a href="#">Icon Library</a>, <a href="#">Illustrations</a></li>
-                            <li>Menu: <a href="#header">Home</a>, <a href="#services">Services</a>, <a href="#projects">Projects</a>, <a href="#contact">Contact</a></li>
+                            <li>Menu: <a href="#header">Inicio</a>, <a href="#services">Servicios</a>, <a href="#team">Equipo de Trabajo</a>, <a href="#contact">Contactanos</a></li>
                         </ul>
                     </div> <!-- end of footer-col -->
                     <div class="footer-col third">
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.facebook.com/people/Yoshvic-Compa%C3%B1%C3%ADa/100082738375249/">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-facebook-f fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-pinterest-p fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.instagram.com/ideadevcompany/">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
-                        <p class="p-small">We would love to hear from you <a href="mailto:contact@site.com"><strong>contact@site.com</strong></a></p>
+                        <span class="fa-stack">
+                            <a href="https://api.whatsapp.com/send?phone=5804263239292">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-whatsapp fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <p class="p-small">Escríbanos a la siguiente dirección para contactarnos <a href="mailto:ideadevcompanyww@gmail.com"><strong>ideadevcompanyww@gmail.com</strong></a></p>
                     </div> <!-- end of footer-col -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -519,13 +507,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © <a href="#your-link">Your name</a></p>
-                </div> <!-- end of col -->
-            </div> <!-- enf of row -->
-
-            <div class="row">
-                <div class="col-lg-12">
-                    <p class="p-small">Distributed by:  <a href="https://themewagon.com/" target="_blank">Themewagon</a></p>
+                    <p class="p-small">Copyright © 2022. All Right Reserved</p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
