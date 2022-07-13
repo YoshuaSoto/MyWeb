@@ -427,8 +427,8 @@
                     <p class="p-heading">Nos comunicaremos a la mayor brevedad para atenderle.</p>
                     <ul class="list-unstyled li-space-lg">
                         <li><i class="fas fa-map-marker-alt"></i> &nbsp;Miranda, Venezuela</li>
-                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:+5804263239292">+58 0426 323 9292</a></li>
-                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:ideadevcompanyww@gmail.com">ideadevcompanyww@gmail.com</a></li>
+                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:+5804263239292" target="_blank">+58 0426 323 9292</a></li>
+                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:ideadevcompanyww@gmail.com" target="_blank">ideadevcompanyww@gmail.com</a></li>
                     </ul>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -476,24 +476,24 @@
                     </div> <!-- end of footer-col -->
                     <div class="footer-col third">
                         <span class="fa-stack">
-                            <a href="https://www.facebook.com/people/Yoshvic-Compa%C3%B1%C3%ADa/100082738375249/">
+                            <a href="https://www.facebook.com/people/Yoshvic-Compa%C3%B1%C3%ADa/100082738375249/" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-facebook-f fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="https://www.instagram.com/ideadevcompany/">
+                            <a href="https://www.instagram.com/ideadevcompany/" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="https://api.whatsapp.com/send?phone=5804263239292">
+                            <a href="https://api.whatsapp.com/send?phone=5804263239292" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-whatsapp fa-stack-1x"></i>
                             </a>
                         </span>
-                        <p class="p-small">Escríbanos a la siguiente dirección para contactarnos <a href="mailto:ideadevcompanyww@gmail.com"><strong>ideadevcompanyww@gmail.com</strong></a></p>
+                        <p class="p-small">Escríbanos a la siguiente dirección para contactarnos <a href="mailto:ideadevcompanyww@gmail.com" target="_blank"><strong>ideadevcompanyww@gmail.com</strong></a></p>
                     </div> <!-- end of footer-col -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
