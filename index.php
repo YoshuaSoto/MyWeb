@@ -97,7 +97,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="h2-heading">Idea Dev Company, es una agencia de Diseño y Desarrollo Tecnologico</h2>
-                    <p class="p-heading">Hacemos realidad tus ideas, con todos los servicios en Diseño Gráfico, Ilustración y Desarrollo Web para tu negocio, empresa, emprendimiento o campaña publicitaria.</p>
+                    <p class="p-heading">Hacemos realidad tus ideas, con todos los servicios en Diseño Gráfico, y Desarrollo Web para tu negocio, empresa, emprendimiento o campaña publicitaria.</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
@@ -112,7 +112,7 @@
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Diseño Gráfico</h4>
-                            <div class="card-text">Girl when of ye snug poor draw. Mistake totally of in chiefly. Justice visitor him entered for. Continue delicate as</div>
+                            <div class="card-text">Te ofrecemos todos los servicio relacionados a este rubro, logotipos, flyers, plantillas, y todo lo que necesites para tu campaña en redes sociales, empresa o negocio.</div>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -130,21 +130,6 @@
                         </div>
                     </div>
                     <!-- end of card -->
-
-                    <!-- Card -->
-                    <div class="card">
-                        <div>
-                            <img src="img/ICON-PINCEL.png" height="80" alt="">
-                            <br>
-                            <br>
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Ilustracion Digital</h4>
-                            <div class="card-text">Wrong do point avoid by fruit learn or in death. So passage however besides invited comfort elderly be me. Walls began</div>
-                        </div>
-                    </div>
-                    <!-- end of card -->
-
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -165,11 +150,10 @@
                             <h2>Trabajamos para desarrollar tus ideas.</h2>
                             <p>Nuestro equipo de trabajo está capacitado profesionalmente para llevar a cabo sus tareas de crear lo que necesitos, nos enfocamos en nuestros valores para ofrecer a los clientes seguridad y confianza en sus requerimientos.</p>
                             <p><strong>EXPERIENCIA -</strong> El equipo suma más de 5 años de experiencia en Diseño y Desarrollo Web.</p>
-                            <p><strong>PASSION -</strong> On recommend tolerably my belonging or am. Mutual has cannot beauty indeed now sussex merely</p>
-                            <p><strong>CREATIVITY -</strong> possible no husbands jennings ye offended packages pleasant he recommend engrossed</p>
+                            <p><strong>RESPONSABILIDAD -</strong> Nuestro compromiso es con nuestros clientes, de que tengan un excelente servicio de calidad al mejor precio, siempre estamos en contacto para avances y dudas.</p>
+                            <p><strong>CREATIVIDAD -</strong> Vamos a la vanguardia con las tendencias en Diseño y Desarrollo Web para crear los sitios y diseños más competitivos de la red, la Creativadad es nuestra principal fortaleza.</p>
                         </div> <!-- end of text-container -->
                         <!-- end of text container -->
-
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
@@ -189,9 +173,9 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
                     <div class="text-container">
-                        <h2>Photo shooting and image editing services</h2>
-                        <p>who eat she defective applauded departure joy. Get dissimilar not introduced day her apartment Fully as taste he mr do smile abode every. Luckily we have words offered article led</p>
-                        <a class="read-more no-line green" href="article.html">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
+                        <h2>Diseño Gráfico</h2>
+                        <p>Te ofrecemos una amplia gama de este servicio, todo lo que necesitas en materia de diseño o rediseño de tu marca, imagen corporativa o para tu campaña pubicitaria, un servicio de calidad y con mucha cretividad para deslumbrar a tus clientes con buenos diseños.</p>
+                        <a class="read-more no-line green" href="#contact">Haz tu Cotización<span class="fas fa-long-arrow-alt-right"></span></a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -211,9 +195,9 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
                     <div class="text-container">
-                        <h2>Video production and editing services</h2>
-                        <p>Smile abode every. Luckily offered article led lasting country minutes nor old. Happen people things oh is oppose up parish effect. Law hands old outweigh humoured far appetite</p>
-                        <a class="read-more no-line green" href="article.html">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
+                        <h2>Desarrollo Web</h2>
+                        <p>Tener presencia online es muy importante para ti y tu negocio, podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
+                        <a class="read-more no-line green" href="#contact">Haz tu Cotización<span class="fas fa-long-arrow-alt-right"></span></a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -221,29 +205,6 @@
     </div> <!-- end of basic-2 -->
     <!-- end of services 2 -->
     
-    
-    <!-- Services 3 -->
-    <div class="basic-3">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7">
-                    <div class="image-container">
-                        <img class="img-fluid" src="images/services-3.jpg" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-                <div class="col-lg-5">
-                    <div class="text-container">
-                        <h2>Digital illustration and animation service</h2>
-                        <p>Am if number no up period regard sudden better. Decisively surrounded all admiration and not you. Out particular sympathize not favourable introduced insipidity but ham rather</p>
-                        <a class="read-more no-line green" href="article.html">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-3 -->
-    <!-- end of services 3 -->
-
-
     <!-- Projects -->
 	<div id="projects" class="filter bg-gray">
 		<div class="container">
@@ -327,62 +288,48 @@
     <!-- end of projects -->
 
 
-    <!-- Testimonials -->
-    <div class="slider-1" id="team">
-        <img class="text-decoration img-fluid" src="images/testimonials-decoration.png" alt="alternative">
+    <!-- Services 2 -->
+    <div class="basic-2" id="team">
+        <center><h2 class="h2-heading">Equipo de Trabajo</h2></center>
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-
-                    <!-- Card Slider -->
-                    <div class="slider-container">
-                        <div class="swiper-container card-slider">
-                            <div class="swiper-wrapper">
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <img class="testimonial-image" src="images/testimonial-1.jpg" alt="alternative">
-                                    <p class="testimonial-text">“Expense bed any sister depend changer off piqued one. Contented continued any happiness instantly objection yet her allowance. Use correct day new brought tedious. By come this been in. Kept easy or sons my it how about some words here done”</p>
-                                    <div class="testimonial-author">Marlene Visconte</div>
-                                    <div class="testimonial-position">General Manager - Scouter</div>
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-        
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <img class="testimonial-image" src="images/testimonial-2.jpg" alt="alternative">
-                                    <p class="testimonial-text">“Expense bed any sister depend changer off piqued one. Contented continued any happiness instantly objection yet her allowance. Use correct day new brought tedious. By come this been in. Kept easy or sons my it how about some words here done”</p>
-                                    <div class="testimonial-author">John Spiker</div>
-                                    <div class="testimonial-position">Team Leader - Vanquish</div>
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-        
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <img class="testimonial-image" src="images/testimonial-3.jpg" alt="alternative">
-                                    <p class="testimonial-text">“Expense bed any sister depend changer off piqued one. Contented continued any happiness instantly objection yet her allowance. Use correct day new brought tedious. By come this been in. Kept easy or sons my it how about some words here done”</p>
-                                    <div class="testimonial-author">Stella Virtuoso</div>
-                                    <div class="testimonial-position">Design Chief - Bikegirl</div>
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-        
-                            </div> <!-- end of swiper-wrapper -->
-        
-                            <!-- Add Arrows -->
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                            <!-- end of add arrows -->
-        
-                        </div> <!-- end of swiper-container -->
-                    </div> <!-- end of slider-container -->
-                    <!-- end of card slider -->
-
+                <div class="col-lg-7">
+                    <div class="image-container">
+                        <img class="img-fluid" src="img/maria.jpeg" alt="alternative">
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-5">
+                    <div class="text-container">
+                            <h2>María Victória Gómez</h2>
+                            <p>Tener presencia online es muy importante para ti y tu negocio, podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
+                            <a class="read-more no-line green" href="#">Portafolio.<span class="fas fa-long-arrow-alt-right"></span></a>
+                    </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
-    </div> <!-- end of slider-1 -->
-    <!-- end of testimonials -->
+    </div> <!-- end of basic-2 -->
+    <!-- end of services 2 -->
 
+        <!-- Services 2 -->
+        <div class="basic-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7">
+                        <div class="image-container">
+                            <img class="img-fluid" src="img/yoshua.jpeg" alt="alternative">
+                        </div> <!-- end of image-container -->
+                    </div> <!-- end of col -->
+                    <div class="col-lg-5">
+                        <div class="text-container">
+                                <h2>Soto Yoshua</h2>
+                                <p>Tener presencia online es muy importante para ti y tu negocio, podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
+                                <a class="read-more no-line green" href="#contact">Haz tu Cotización<span class="fas fa-long-arrow-alt-right"></span></a>
+                        </div> <!-- end of text-container -->
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+            </div> <!-- end of container -->
+        </div> <!-- end of basic-2 -->
+        <!-- end of services 2 -->
 
     <!-- Statistics -->
     <div class="counter bg-gray">
@@ -493,7 +440,7 @@
                                 <i class="fab fa-whatsapp fa-stack-1x"></i>
                             </a>
                         </span>
-                        <p class="p-small">Escríbanos a la siguiente dirección para contactarnos <a href="mailto:ideadevcompanyww@gmail.com" target="_blank"><strong>ideadevcompanyww@gmail.com</strong></a></p>
+                        <p class="p-small">Escríbanos a la siguiente dirección para contactárnos <a href="mailto:ideadevcompanyww@gmail.com" target="_blank"><strong>ideadevcompanyww@gmail.com</strong></a></p>
                     </div> <!-- end of footer-col -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
