@@ -53,9 +53,6 @@
                         <a class="nav-link" href="#services">Servicios</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#projects">Proyectos</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#team">Equipo de Trabajo</a>
                     </li>
                     <li class="nav-item">
@@ -205,89 +202,6 @@
     </div> <!-- end of basic-2 -->
     <!-- end of services 2 -->
     
-    <!-- Projects -->
-	<div id="projects" class="filter bg-gray">
-		<div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="h2-heading">Projects That We're Proud Of</h2>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-            <div class="row">
-                <div class="col-lg-12">
-                    
-                    <!-- Filter -->
-                    <div class="button-group filters-button-group">
-                        <button class="button is-checked" data-filter="*">SHOW ALL</button>
-                        <button class="button" data-filter=".business">BUSINESS</button>
-                        <button class="button" data-filter=".finance">FINANCE</button>
-                        <button class="button" data-filter=".software">SOFTWARE</button>
-                    </div> <!-- end of button group -->
-                    <div class="grid">
-                        <div class="element-item finance">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/11.jpeg" alt="alternative">
-                                <p><strong>Online banking</strong> - delivered to and to major company in pharmace ski jump from</p>
-                            </a>
-                        </div>
-                        <div class="element-item finance">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/2.jpeg" alt="alternative">
-                                <p><strong>Loans company</strong> - enjoyed minutes related as at on on. Is fanny dried camping today</p>
-                            </a>
-                        </div>
-                        <div class="element-item finance">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/1.jpeg" alt="alternative">
-                                <p><strong>Refinance firm</strong> - distrusts an it contented perceived attending oh nouns here</p>
-                            </a>
-                        </div>
-                        <div class="element-item business finance">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/13.jpeg" alt="alternative">
-                                <p><strong>Financial products</strong> - thoroughly estimating introduced stimulated why but front</p>
-                            </a>
-                        </div>
-                        <div class="element-item business finance">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/banner.jpeg" alt="alternative">
-                                <p><strong>Credit cards</strong> - enjoyed minutes related as at on on. Is fanny dried out yesterday</p>
-                            </a>
-                        </div>
-                        <div class="element-item business software">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/9.jpeg" alt="alternative">
-                                <p><strong>Software robots</strong> - as often me goodness as reserved raptures to mistaken</p>
-                            </a>
-                        </div>
-                        <div class="element-item business software">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/10.jpeg" alt="alternative">
-                                <p><strong>Company control</strong> - steepest oh screened he gravity he mr sixteen esteems his</p>
-                            </a>
-                        </div>
-                        <div class="element-item business software">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/16.jpeg" alt="alternative">
-                                <p><strong>Audit reports</strong> - mile home its new way with high told said finished to learn</p>
-                            </a>
-                        </div>
-                        <div class="element-item business software">
-                            <a href="article.html">
-                                <img class="img-fluid" src="img/6.jpeg" alt="alternative">
-                                <p><strong>Big business</strong> - no horrible blessing landlord dwelling dissuade if we can hear</p>
-                            </a>
-                        </div>
-                    </div> <!-- end of grid -->
-                    <!-- end of filter -->
-                    
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-		</div> <!-- end of container -->
-    </div> <!-- end of filter -->
-    <!-- end of projects -->
-
-
     <!-- Services 2 -->
     <div class="basic-2" id="team">
         <center><h2 class="h2-heading">Equipo de Trabajo</h2></center>
@@ -301,6 +215,7 @@
                 <div class="col-lg-5">
                     <div class="text-container">
                             <h2>María Victória Gómez</h2>
+                            <h3>Diseñador Gráfico</h3>
                             <p>Tener presencia online es muy importante para ti y tu negocio, podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
                             <a class="read-more no-line green" href="#">Portafolio.<span class="fas fa-long-arrow-alt-right"></span></a>
                     </div> <!-- end of text-container -->
@@ -322,48 +237,17 @@
                     <div class="col-lg-5">
                         <div class="text-container">
                                 <h2>Soto Yoshua</h2>
-                                <p>Tener presencia online es muy importante para ti y tu negocio, podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
-                                <a class="read-more no-line green" href="#contact">Haz tu Cotización<span class="fas fa-long-arrow-alt-right"></span></a>
+                                <h3>Desarrollador Web / Finanzas</h3>
+                                <p>Con más de 5 años de experiencia como Analísta de IT, y 3 años como desarrollador en LAVAREL Backend, me especializo en esta área, desarrollador web, JS, CSS,
+                                   del lado de frameworks. / Gestión Financiera y cotizaciones de la Agencia, Criptomonedas, y Mercados Bursátiles. 
+                                </p>
+                                <a class="read-more no-line green" href="https://cv-soto-yoshua.herokuapp.com/" target="_blank">Más sobre mi<span class="fas fa-long-arrow-alt-right"></span></a>
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
         </div> <!-- end of basic-2 -->
         <!-- end of services 2 -->
-
-    <!-- Statistics -->
-    <div class="counter bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    
-                    <!-- Counter -->
-                    <div class="counter-container">
-                        <div class="counter-cell">
-                            <div data-purecounter-start="0" data-purecounter-end="231" data-purecounter-duration="3" class="purecounter">1</div>
-                            <div class="counter-info">Happy Customers</div>
-                        </div> <!-- end of counter-cell -->
-                        <div class="counter-cell">
-                            <div data-purecounter-start="0" data-purecounter-end="385" data-purecounter-duration="1.5" class="purecounter">1</div>
-                            <div class="counter-info">Issues Solved</div>
-                        </div> <!-- end of counter-cell -->
-                        <div class="counter-cell">
-                            <div data-purecounter-start="0" data-purecounter-end="159" data-purecounter-duration="3" class="purecounter">1</div>
-                            <div class="counter-info">Good Reviews</div>
-                        </div> <!-- end of counter-cell -->
-                        <div class="counter-cell">
-                            <div data-purecounter-start="0" data-purecounter-end="128" data-purecounter-duration="3" class="purecounter">1</div>
-                            <div class="counter-info">Case Studies</div>
-                        </div> <!-- end of counter-cell -->
-                    </div> <!-- end of counter-container -->
-                    <!-- end of counter -->
-
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of counter -->
-    <!-- end of statistics -->
-
 
     <!-- Contact -->
     <div id="contact" class="form-1">
