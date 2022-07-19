@@ -216,7 +216,7 @@
                     <div class="text-container">
                             <h2>María Victória Gómez</h2>
                             <h3>Diseñador Gráfico</h3>
-                            <p>Tener presencia online es muy importante para ti y tu negocio, podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
+                            <p>podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
                             <a class="read-more no-line green" href="#">Portafolio.<span class="fas fa-long-arrow-alt-right"></span></a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -238,8 +238,9 @@
                         <div class="text-container">
                                 <h2>Soto Yoshua</h2>
                                 <h3>Desarrollador Web / Finanzas</h3>
-                                <p>Con más de 5 años de experiencia como Analísta de IT, y 3 años como desarrollador en LAVAREL Backend, me especializo en esta área, desarrollador web, JS, CSS,
-                                   del lado de frameworks. / Gestión Financiera y cotizaciones de la Agencia, Criptomonedas, y Mercados Bursátiles. 
+                                <p>Desarrollador web en CSS y JS, basado en frameworks como Bootstrap, Tailwind, lenguajes de programacion PHP y Javascript, React, LARAVEL, y herramientas como Wordpress, Elementor y Generate Press,
+                                con más de 3 años de experiencia en este campo. / Encargado de la parte de Finanzas de la Agencia, incluyendo en Criptomonedas, Índices Bursátiles y demás instrumentos.
+
                                 </p>
                                 <a class="read-more no-line green" href="https://cv-soto-yoshua.herokuapp.com/" target="_blank">Más sobre mi<span class="fas fa-long-arrow-alt-right"></span></a>
                         </div> <!-- end of text-container -->
