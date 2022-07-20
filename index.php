@@ -214,7 +214,7 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
                     <div class="text-container">
-                            <h2>María Victória Gómez</h2>
+                            <h2>María Victoria Gómez</h2>
                             <h3>Diseñador Gráfico</h3>
                             <p>podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
                             <a class="read-more no-line green" href="#">Portafolio.<span class="fas fa-long-arrow-alt-right"></span></a>
