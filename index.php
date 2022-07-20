@@ -216,7 +216,9 @@
                     <div class="text-container">
                             <h2>María Victoria Gómez</h2>
                             <h3>Diseñador Gráfico</h3>
-                            <p>podemos crearte un sitio web moderno, sencillo y dinamico para ti, sitios webs de presentación, negocios, empresas y para lo que necesites en tiempo record.</p>
+                            <p>Con más de 2 años de experiencia diseñando Logos para empresas, negocios y figuras públicas, me especializo en Flyers, Mockups, Plantillas Webs. Creativadad en crear 
+                                desde cero tu imagen coorporativa para tu negocio u empresa usando las herramientas más modernas para una mejor calidad para ti.
+                            </p>
                             <a class="read-more no-line green" href="#">Portafolio.<span class="fas fa-long-arrow-alt-right"></span></a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -268,7 +270,7 @@
                 <div class="col-lg-10 offset-lg-1">
                     
                     <!-- Contact Form -->
-                    <form method="GET" action="">
+                    <form method="GET" action="index.php">
                         <div class="form-group">
                             <input type="text" class="form-control-input" placeholder="Name" required>
                         </div>
