@@ -268,7 +268,7 @@
                 <div class="col-lg-10 offset-lg-1">
                     
                     <!-- Contact Form -->
-                    <form>
+                    <form method="GET" action="">
                         <div class="form-group">
                             <input type="text" class="form-control-input" placeholder="Name" required>
                         </div>
